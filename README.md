@@ -2,23 +2,13 @@
 
 [中文](README.md "中文") [English](eng-README.md "English") [日本語](jp-README.md "日本語")
 
-<p align="center">
-	<img alt="GitHub" src="https://img.shields.io/github/license/cjyaddone/ChatWaifu?color=red">
-	<img src="https://img.shields.io/badge/Python-3.7|8|9|10-green" alt="PYTHON" >
-  	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcjyaddone%2FChatWaifu?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcjyaddone%2FChatWaifu.svg?type=small"/></a>
-</p>
-
-#
-
 ### 这是一个使用TTS+VITS的ChatGPT语音对话程序!
-
-效果演示BiliBIli:[《青春猪头少年不会梦见赛博女友》](https://www.bilibili.com/video/BV1rv4y1Q7eT "BiliBili")
 
 **当前支持功能：**
 * [x] ChatGPT的对话聊天
 * [x] 回答转语音
 * [x] 多角色语音
-* [x] 语音识别对话 (研发了一款真正人性化的智能语音Q宝
+* [x] 语音识别对话
 * [x] [对接Marai机器人](https://github.com/MuBai-He/ChatWaifu-marai)
 * [x] [对接Live2D的UI版本](https://github.com/cjyaddone/ChatWaifuL2D)
 * [x] [使用gpt3官方api，并支持cuda加速的版本（当前仅源码](https://github.com/cjyaddone/ChatWaifu-API)
@@ -99,7 +89,7 @@ Google Drive:https://drive.google.com/file/d/1tMCafhnUoL7FbevVQ44VQi-WznDjt23_/v
 ![](readme/token.png)
 #### 将值复制进入终端并回车
 
-### <span id="444">3.2 开始和CyberWaifu聊天！！！</span>
+### <span id="444">3.2 开始和Chtholly聊天！！！</span>
 
 **语音对话版:** 当控制台提示"You:"时开始说话，说完并出现句子录音结束并发送到ChatGPT对话。
 
